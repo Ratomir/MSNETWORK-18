@@ -1,0 +1,23 @@
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.deps.json
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.pdb
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.AssemblyInfo.cs
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.pdb
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.deps.json
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.dll
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\MSNetwork18.DAL.pdb
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.AssemblyInfo.cs
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.csproj.CopyComplete
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.dll
+C:\Users\pc\Desktop\MSNetworkGitHub\MSNETWORK-18\DocumentDB SQL\MSNetwork18.DAL\obj\Debug\netcoreapp2.0\MSNetwork18.DAL.pdb

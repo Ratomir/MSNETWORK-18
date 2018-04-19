@@ -1,0 +1,9 @@
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\bin\Debug\netcoreapp2.0\RatomirBlog.Helper.deps.json
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\bin\Debug\netcoreapp2.0\RatomirBlog.Helper.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\bin\Debug\netcoreapp2.0\RatomirBlog.Helper.pdb
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.csprojResolveAssemblyReference.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Helper\obj\Debug\netcoreapp2.0\RatomirBlog.Helper.pdb

@@ -1,0 +1,16 @@
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Repository.deps.json
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Repository.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Repository.pdb
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Helper.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Model.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Helper.pdb
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\RatomirBlog.Model.pdb
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.csprojResolveAssemblyReference.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.csproj.CopyComplete
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Repository\obj\Debug\netcoreapp2.0\RatomirBlog.Repository.pdb

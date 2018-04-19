@@ -1,0 +1,9 @@
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\bin\Release\netcoreapp2.0\RatomirBlog.Model.deps.json
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\bin\Release\netcoreapp2.0\RatomirBlog.Model.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\bin\Release\netcoreapp2.0\RatomirBlog.Model.pdb
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.csprojResolveAssemblyReference.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.csproj.CoreCompileInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.AssemblyInfoInputs.cache
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.AssemblyInfo.cs
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.dll
+C:\Users\pc\Source\Repos\master\RatomirBlog.Model\obj\Release\netcoreapp2.0\RatomirBlog.Model.pdb
