@@ -16,6 +16,12 @@ namespace RatomirBlog.Model
         public string LastName { get; set; }
 
         [BsonIgnoreIfNull]
+        public string Username { get; set; }
+
+        [BsonIgnoreIfNull]
+        public string Email { get; set; }
+
+        [BsonIgnoreIfNull]
         public DateTime? DateOfBirth { get; set; }
     }
 }

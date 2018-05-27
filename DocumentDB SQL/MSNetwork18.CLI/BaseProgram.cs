@@ -8,14 +8,16 @@ namespace MSNetwork18.CLI
 {
     public class BaseProgram : IDisposable
     {
-        protected const string DatabaseId = "msnet18sql";
-        protected const string CollectionId = "zips";
+        protected readonly string DatabaseId;
+        protected readonly string CollectionId;
 
         public ISQLCollectionRepository _collectionRepository { get; set; }
 
         public BaseProgram()
         {
             _collectionRepository = DIProvider.GetServiceProvider().GetService<ISQLCollectionRepository>();
+            DatabaseId = _collectionRepository.DatabaseId;
+            CollectionId = _collectionRepository.CollectionId;
         }
 
         #region >>> IDisposable Support <<<

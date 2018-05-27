@@ -17,7 +17,7 @@ namespace RatomirBlog.Repository
     public class BlogClient : MongoClient
     {
         private const string ConnectionString =
-  @"mongodb://ratomirblog:JxmbGX2vjOku1ijF3Cn3G6CUN7hKvbm4TTHWm2sqqKxQxb4n6K7kOIhbnHnuh0Ne0k3Fa8FOm1qOBl0qPNtcbQ==@ratomirblog.documents.azure.com:10255/?ssl=true&replicaSet=globaldb";
+  @"connectionStringMongoDb";
 
         private BlogClient _connection;
 

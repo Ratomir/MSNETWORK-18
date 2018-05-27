@@ -21,8 +21,13 @@ namespace Core.Test
         {
             UserModel newUserModel = new UserModel()
             {
-                CreatedUser = "ratomirx",
-                FirstName = "Ratomir novi sa repa",
+                CreatedUser = "admin",
+                Username = "ratomirx",
+                Email = "ratomir@live.com",
+                FirstName = "Ratomir",
+                LastName = "Vukadin",
+                IsInvalid = false,
+                CreatedDate = DateTime.Now,
                 DateOfBirth = new DateTime(1992, 7, 9),
             };
 

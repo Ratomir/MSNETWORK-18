@@ -1743,10 +1743,10 @@
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
         "LICENSE.TXT",
-        "Microsoft.NETCore.Platforms.2.0.0.nupkg.sha512",
-        "Microsoft.NETCore.Platforms.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
+        "microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+        "microsoft.netcore.platforms.nuspec",
         "runtime.json",
         "useSharedDesignerContext.txt",
         "version.txt"
@@ -4996,26 +4996,23 @@
   },
   "packageFolders": {
     "C:\\Users\\pc\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\MSNetwork18.Model.csproj",
+      "projectUniqueName": "c:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\MSNetwork18.Model.csproj",
       "projectName": "MSNetwork18.Model",
-      "projectPath": "C:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\MSNetwork18.Model.csproj",
+      "projectPath": "c:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\MSNetwork18.Model.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\obj\\",
+      "outputPath": "c:\\Users\\pc\\Desktop\\MSNetworkGitHub\\MSNETWORK-18\\DocumentDB SQL\\MSNetwork18.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

@@ -42,7 +42,9 @@ namespace MSNetwork18.WebAPI.Middleware
 
                         var developmentModel = new
                         {
-                            body = JArray.Parse(responseBody),
+                            body = responseBody.StartsWith('[') && responseBody.EndsWith(']')
+                            ? JArray.Parse(responseBody)
+                            : JArray.Parse("[" + responseBody + "]"),
                             meta_data = new MetaEnvModel()
                             {
                                 Environment = Environment,

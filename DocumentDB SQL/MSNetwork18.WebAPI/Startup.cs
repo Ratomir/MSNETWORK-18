@@ -5,6 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using MSNetwork18.DAL;
 using MSNetwork18.DAL.Interface;
 using MSNetwork18.WebAPI.Middleware;
+using MSNetwork18.WebAPI.Model.Base;
 
 namespace MSNetwork18.WebAPI
 {
@@ -22,6 +23,9 @@ namespace MSNetwork18.WebAPI
         {
             services.AddTransient<ISQLDocumentRepository, SQLDocumentRepository>();
             services.AddTransient<ISQLStoredProcedureRepository, SQLStoredProcedureRepository>();
+
+            services.AddTransient<ConfigurationModel>();
+            //services.Configure<ConfigurationModel>(Configuration.GetSection("configuration"));
             services.AddMvc();
         }
 

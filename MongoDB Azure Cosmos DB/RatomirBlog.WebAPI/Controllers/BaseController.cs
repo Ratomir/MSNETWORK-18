@@ -17,13 +17,15 @@ namespace RatomirBlog.WebAPI.Controllers
         public StorageCredentials StorageCredentials { get; set; }
         public CloudStorageAccount StorageAccount { get; set; }
 
+        public string AccountName { get; set; }
+
         public BaseController(BlogClient blogClient, IConfiguration configuration)
         {
             BlogClient = blogClient;
 
-            IConfigurationSection section = configuration.GetSection("BlobStorage");
+            AccountName = configuration["BlobStorage:accountname"];
 
-            StorageCredentials = new StorageCredentials(section.GetValue<string>("accountname"), section.GetValue<string>("key"));
+            StorageCredentials = new StorageCredentials(AccountName, configuration["BlobStorage:key"]);
             StorageAccount = new CloudStorageAccount(StorageCredentials, true);
         }
     }

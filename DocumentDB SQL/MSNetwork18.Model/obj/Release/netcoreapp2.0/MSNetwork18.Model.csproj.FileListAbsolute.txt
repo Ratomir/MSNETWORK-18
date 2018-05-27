@@ -1,9 +1,0 @@
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\bin\Release\netcoreapp2.0\MSNetwork18.Model.deps.json
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\bin\Release\netcoreapp2.0\MSNetwork18.Model.dll
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\bin\Release\netcoreapp2.0\MSNetwork18.Model.pdb
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.csprojResolveAssemblyReference.cache
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.csproj.CoreCompileInputs.cache
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.AssemblyInfoInputs.cache
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.AssemblyInfo.cs
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.dll
-C:\Users\pc\Documents\Visual Studio 2017\Projects\MSNetwork18\MSNetwork18.Model\obj\Release\netcoreapp2.0\MSNetwork18.Model.pdb

@@ -86,6 +86,16 @@ namespace MSNetwork18.CLI.Programs
                         StoredProcedure result = await _baseRepository.CreateStoredProcedureAsync(UriFactory.CreateDocumentCollectionUri(databaseName, collectionName.Id), sprocDefinition);
 
                         Success("Created stored procedure " + result.Id + " RID: " + result.ResourceId);
+
+                        ///////////////////////////////////////////////
+
+                        sprocDefinition.Id = "spCreateDocIfIdlsUnique";
+                        sprocDefinition.Body = File.ReadAllText(@"Scripts\spCreateDocIfIdlsUnique.js");
+
+                        result = await _baseRepository.CreateStoredProcedureAsync(UriFactory.CreateDocumentCollectionUri(databaseName, collectionName.Id), sprocDefinition);
+
+                        Success("Created stored procedure " + result.Id + " RID: " + result.ResourceId);
+
                         break;
                     }
             }

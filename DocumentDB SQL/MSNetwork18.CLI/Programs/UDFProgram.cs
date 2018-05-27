@@ -37,8 +37,6 @@ namespace MSNetwork18.CLI.Programs
             {
                 case UDFOption.Use:
                     {
-                        // The function work with zips collection and msnet18sql database.
-                        // If you need a different collection or database, please write a piece of code to input data into the program.
                         string id = ProgramHelper.EnterText("Id ");
                         SqlQuerySpec query = new SqlQuerySpec()
                         {

@@ -39,13 +39,13 @@ namespace RatomirBlog.WebAPI.Controllers
         [HttpPost]
         public async Task<IActionResult> Post()
         {
-            Uri blobUri = new Uri("https://msnetwork18.blob.core.windows.net/html/html.html");
+            Uri blobUri = new Uri("https://" + AccountName + ".blob.core.windows.net/html/html.html");
             CloudBlockBlob blob = new CloudBlockBlob(blobUri, StorageCredentials);
 
             MemoryStream mem = new MemoryStream();
             await blob.DownloadToStreamAsync(mem);
 
-            UserModel userModel = await _blogRepository.ReadOneByIdAsync<UserModel>(BlogClient, "5ad69beb0bff121b0c35956b");
+            UserModel userModel = await _blogRepository.ReadOneAsync<UserModel>(BlogClient, t => t.Username == "ratomirx" && t.Email == "ratomir@live.com");
 
             PostModel postModel = new PostModel()
             {

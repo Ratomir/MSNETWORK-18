@@ -15,17 +15,26 @@ namespace MSNetwork18.DAL
         public string MasterKey { get; set; }
 
         public Uri UriCosmosDB { get; set; }
+        public string DatabaseId { get; set; }
+        public string CollectionId { get; set; }
 
-        public BaseDatabaseRepository(IConfiguration configruation)
+        public BaseDatabaseRepository(IConfiguration configuration)
         {
-            EndPoint = configruation.GetSection("endpointUrl").Value;
-            MasterKey = configruation.GetSection("masterKey").Value;
+            EndPoint = configuration.GetSection("endpointUrl").Value;
+            MasterKey = configuration.GetSection("masterKey").Value;
 
             UriCosmosDB = new Uri(EndPoint);
             ConnectionPolicy connectionPolicy = new ConnectionPolicy();
-            connectionPolicy.PreferredLocations.Add(LocationNames.WestUS);
-            connectionPolicy.PreferredLocations.Add(LocationNames.NorthEurope);
-            connectionPolicy.PreferredLocations.Add(LocationNames.FranceCentral);
+
+            DatabaseId = configuration["configuration:database"];
+            CollectionId = configuration["configuration:collection"];
+
+            configuration["configuration:replicationCenter"].Split(',').ToList().ForEach(azureRegion => connectionPolicy.PreferredLocations.Add(azureRegion));
+
+            //Obsolete Here is the old way to load preferred azure region location. It's moved to application configuration.
+            //connectionPolicy.PreferredLocations.Add(LocationNames.WestUS);
+            //connectionPolicy.PreferredLocations.Add(LocationNames.NorthEurope);
+            //connectionPolicy.PreferredLocations.Add(LocationNames.FranceCentral);
 
             Client = new DocumentClient(UriCosmosDB, MasterKey, connectionPolicy, ConsistencyLevel.Session);
         }
